@@ -79,9 +79,9 @@ soon
 @article
 ``` -->
 ## 🚩 Tasks
-🔒 The release of VSI-100k.
+🔒 The release of VSI-100k (will be in June 2025 for some reason). 
 
-🔒 The release of the training codes and the evaluation.
+🔒 The release of the training codes and the evaluation (will also be in June 2025).
 
 ## 📄 License
 ![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg) ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg) **Usage and License Notices**: The data and code are intended and licensed for research use only.
