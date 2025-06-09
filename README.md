@@ -17,6 +17,8 @@
 <p align="center">
 
 ## 📅 News
+
+- 🚀 [04/02/2025] We release VSI-100k on <a href="https://huggingface.co/datasets/OPPOer/VSI-100k">Huggingface</a>.
 - 🚀 [04/02/2025] We release our paper on <a href="https://arxiv.org/abs/2504.00883">arxiv</a>.
 
 
@@ -71,18 +73,24 @@ Our vsGRPO-2B outperforms GPT-4o, and the vsGRPO-7B demonstrates performance com
 <!-- ```
 soon
 ``` -->
-<strong>We will release the code with the permission.<strong> -->
 
 
-<!-- ## ✒️Citation
+
+ ## ✒️Citation
+ If you find our work and the dataset useful, please cite:
 ```
-@article
-``` -->
-## 🚩 Tasks
+@article{liao2025improved,
+  title={Improved visual-spatial reasoning via r1-zero-like training},
+  author={Liao, Zhenyi and Xie, Qingsong and Zhang, Yanhao and Kong, Zijian and Lu, Haonan and Yang, Zhenyu and Deng, Zhijie},
+  journal={arXiv preprint arXiv:2504.00883},
+  year={2025}
+}
+``` 
+<!--## 🚩 Tasks
 🔒 The release of VSI-100k (will be in June 2025 for some reason). 
 
 🔒 The release of the training codes and the evaluation (will also be in June 2025).
-
+-->
 ## 📄 License
 ![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg) ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg) **Usage and License Notices**: The data and code are intended and licensed for research use only.
 License: Attribution-NonCommercial 4.0 International It should abide by the policy of OpenAI: https://openai.com/policies/terms-of-use
